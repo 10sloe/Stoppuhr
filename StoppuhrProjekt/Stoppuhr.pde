@@ -119,7 +119,7 @@ class Stoppuhr
   
   void reset()
   {
-    zustand = "reset";
+    zustand = "zurückgesetzt";
     stunden = 0;
     minuten = 0;
     sekunden = 0;
